@@ -1,4 +1,4 @@
-package sinyj0622.cording.practice;
+package sinyj0622.cording.practice.java;
 
 import java.io.File;
 import java.io.IOException;

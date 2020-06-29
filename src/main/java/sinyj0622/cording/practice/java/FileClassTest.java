@@ -1,6 +1,6 @@
 // 파일 디렉토리 생성,삭제 해보기
 
-package sinyj0622.cording.practice;
+package sinyj0622.cording.practice.java;
 
 import java.io.File;
 

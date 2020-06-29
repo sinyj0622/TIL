@@ -1,10 +1,10 @@
-package sinyj0622.cording.practice.a;
+package sinyj0622.cording.practice.java;
 
 import java.io.FileInputStream;
 
 public class StringIo {
 
-  public static void main(String[] args) throws Exception, Exception {
+  public static void main(String[] args) throws Exception {
     FileInputStream in = new FileInputStream("temp/test1.data");
     
     byte[] buf = new byte[100];
